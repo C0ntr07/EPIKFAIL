@@ -2,6 +2,8 @@
 
 https://ddosecrets.com/wiki/Epik
 
+magnet:?xt=urn:btih:7870f10ce71afa3fee1d986b839bd19e80713cba&dn=EpikFail&tr=https://tracker.bt-hash.com:443/announce
+
 180 gigabytes of user, registration, forwarding and other information behind the "privacy" web hosting and registrar service Epik, known for hosting fascist, white supremacist and other right-wing content as well as harassment and doxing websites.
 
 Original torrent
